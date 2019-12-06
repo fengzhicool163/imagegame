@@ -1,0 +1,97 @@
+
+bcbm-dati.png
+size: 496,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbm-bg
+  rotate: false
+  xy: 203, 1
+  size: 179, 177
+  orig: 200, 200
+  offset: 11, 12
+  index: -1
+bcbm-lu
+  rotate: false
+  xy: 1, 203
+  size: 195, 92
+  orig: 200, 200
+  offset: 0, 23
+  index: -1
+bcbm-qi
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+bcbm-che
+  rotate: false
+  xy: 203, 180
+  size: 190, 99
+  orig: 200, 200
+  offset: 10, 40
+  index: -1
+bcbm-chete
+  rotate: false
+  xy: 384, 1
+  size: 110, 55
+  orig: 200, 200
+  offset: 10, 73
+  index: -1
+bcbm-m1
+  rotate: false
+  xy: 384, 98
+  size: 37, 43
+  orig: 200, 200
+  offset: 128, 139
+  index: -1
+bcbm-m2
+  rotate: false
+  xy: 434, 58
+  size: 22, 23
+  orig: 200, 200
+  offset: 93, 132
+  index: -1
+bcbm-m3
+  rotate: false
+  xy: 384, 143
+  size: 38, 32
+  orig: 200, 200
+  offset: 149, 59
+  index: -1
+bcbm-m4
+  rotate: false
+  xy: 395, 177
+  size: 23, 19
+  orig: 200, 200
+  offset: 175, 109
+  index: -1
+bcbm-l
+  rotate: false
+  xy: 423, 98
+  size: 31, 32
+  orig: 200, 200
+  offset: 122, 157
+  index: -1
+bcbm-f
+  rotate: false
+  xy: 198, 281
+  size: 185, 53
+  orig: 200, 200
+  offset: 11, 10
+  index: -1
+bcbm-chete00
+  rotate: false
+  xy: 385, 281
+  size: 34, 43
+  orig: 200, 200
+  offset: 26, 85
+  index: -1
+bcbm-chete01
+  rotate: false
+  xy: 384, 58
+  size: 48, 38
+  orig: 200, 200
+  offset: 72, 73
+  index: -1
