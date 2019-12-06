@@ -1,0 +1,943 @@
+{
+    "frames": {
+        "card1.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 260,
+                "y": 292
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card10.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 260,
+                "y": 146
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card11.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 271,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card12.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 271,
+                "y": 73
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card13.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 312,
+                "y": 146
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card14.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 323,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card15.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 323,
+                "y": 73
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card16.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 364,
+                "y": 146
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card17.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 375,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card18.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 375,
+                "y": 73
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card19.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 416,
+                "y": 146
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card2.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 427,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card20.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 427,
+                "y": 73
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card21.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 260,
+                "y": 219
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card22.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 208,
+                "y": 438
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card23.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 260,
+                "y": 365
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card24.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 260,
+                "y": 438
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card25.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 312,
+                "y": 219
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card26.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 364,
+                "y": 219
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card27.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 416,
+                "y": 219
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card28.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 312,
+                "y": 292
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card29.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 312,
+                "y": 365
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card3.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 312,
+                "y": 438
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card30.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 364,
+                "y": 292
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card31.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 416,
+                "y": 292
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card32.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 364,
+                "y": 365
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card33.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 364,
+                "y": 438
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card34.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 0,
+                "y": 227
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card35.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 0,
+                "y": 154
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card36.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 0,
+                "y": 300
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card37.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 0,
+                "y": 373
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card38.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 52,
+                "y": 154
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card39.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 52,
+                "y": 227
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card4.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 52,
+                "y": 300
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card40.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 52,
+                "y": 373
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card41.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 104,
+                "y": 154
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card42.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 115,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card43.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 115,
+                "y": 73
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card44.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 104,
+                "y": 227
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card45.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 104,
+                "y": 300
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card46.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 104,
+                "y": 373
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card47.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 156,
+                "y": 146
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card48.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 167,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card49.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 167,
+                "y": 73
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card5.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 156,
+                "y": 219
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card50.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 156,
+                "y": 292
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card51.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 156,
+                "y": 365
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card52.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 156,
+                "y": 438
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card53.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 208,
+                "y": 146
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card54.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 219,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card6.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 219,
+                "y": 73
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card7.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 208,
+                "y": 219
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card8.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 208,
+                "y": 292
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "card9.jpg": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 51,
+                "x": 208,
+                "y": 365
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 51
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_liangpai_kabei.png": {
+            "frame": {
+                "h": 153,
+                "idx": 0,
+                "w": 114,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 153,
+                "w": 114
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "pokers.png",
+        "prefix": "pokers/"
+    }
+}
