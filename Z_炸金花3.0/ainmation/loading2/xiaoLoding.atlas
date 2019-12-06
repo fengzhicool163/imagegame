@@ -1,0 +1,20 @@
+
+xiaoLoding.png
+size: 267,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图集/小的旋转
+  rotate: false
+  xy: 2, 2
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+图集/小的黑桃
+  rotate: false
+  xy: 194, 117
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
