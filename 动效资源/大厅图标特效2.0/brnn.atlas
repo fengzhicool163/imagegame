@@ -1,0 +1,216 @@
+
+brnn.png
+size: 1013,1514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+切图/台子
+  rotate: false
+  xy: 649, 608
+  size: 222, 148
+  orig: 222, 148
+  offset: 0, 0
+  index: -1
+切图/百人牛牛
+  rotate: true
+  xy: 873, 562
+  size: 194, 59
+  orig: 194, 59
+  offset: 0, 0
+  index: -1
+百人牛牛/卡牌
+  rotate: false
+  xy: 451, 585
+  size: 196, 171
+  orig: 196, 171
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00004
+  rotate: false
+  xy: 831, 380
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00006
+  rotate: false
+  xy: 451, 403
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00008
+  rotate: false
+  xy: 633, 244
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00010
+  rotate: false
+  xy: 815, 198
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00012
+  rotate: false
+  xy: 254, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00014
+  rotate: false
+  xy: 436, 221
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00016
+  rotate: false
+  xy: 618, 62
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00018
+  rotate: false
+  xy: 800, 16
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00020
+  rotate: false
+  xy: 254, 206
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00022
+  rotate: false
+  xy: 436, 39
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/牛的影子_00024
+  rotate: false
+  xy: 649, 426
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛
+  rotate: false
+  xy: 254, 570
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00000
+  rotate: false
+  xy: 2, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00002
+  rotate: false
+  xy: 254, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00004
+  rotate: false
+  xy: 506, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00006
+  rotate: false
+  xy: 758, 1262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00008
+  rotate: false
+  xy: 2, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00010
+  rotate: false
+  xy: 254, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00012
+  rotate: false
+  xy: 506, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00014
+  rotate: false
+  xy: 758, 1010
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00016
+  rotate: false
+  xy: 2, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00018
+  rotate: false
+  xy: 254, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00020
+  rotate: false
+  xy: 506, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00022
+  rotate: false
+  xy: 758, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00024
+  rotate: false
+  xy: 2, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00026
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+百人牛牛/金牛粒子_00028
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

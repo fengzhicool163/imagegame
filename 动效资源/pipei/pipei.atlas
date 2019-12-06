@@ -1,0 +1,62 @@
+
+pipei.png
+size: 280,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pipei01
+  rotate: false
+  xy: 183, 52
+  size: 97, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+pipei02
+  rotate: false
+  xy: 0, 4
+  size: 181, 152
+  orig: 189, 189
+  offset: 4, 4
+  index: -1
+pipei03
+  rotate: false
+  xy: 183, 0
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+pipei04
+  rotate: false
+  xy: 183, 25
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+pipei05
+  rotate: false
+  xy: 240, 27
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+pipei06
+  rotate: false
+  xy: 211, 27
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+pipei07
+  rotate: false
+  xy: 212, 0
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+pipei08
+  rotate: false
+  xy: 238, 18
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
